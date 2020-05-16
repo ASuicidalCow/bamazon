@@ -1,2 +1,2 @@
 # bamazon
-A CLI that uses an Amazon-like storefront
+ Amazon-like storefront that uses a CLI 
